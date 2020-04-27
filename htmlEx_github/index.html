@@ -1,46 +1,59 @@
 <!DOCTYPE html>
-<html lang="ko"> 
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>GitHub</title>
-    <!--link를 통해서 css를 가져오겠다.-->
-    <link rel="stylesheet" href="./main.css">
-</head>
-<body>
-    <!--div : 의미없는 태그, class : 의미 부여-->
-    <div class="header">
-        <div class="container clearfix">
-            <div class="container-left clearfix">
-                <div class="logo">
-                    <img src="https://heropcode.github.io/GitHub-Responsive/img/logo.svg" alt="깃허브 로고">
-                </div>
-                <div class="menu clearfix">
-                    <div class="menu-item">Personal</div>
-                    <div class="menu-item">Open Source</div>
-                    <div class="menu-item">Business</div>
-                    <div class="menu-item">Explore</div>
-                </div>
-            </div>
-            <div class="container-right clearfix">
-                <div class="categori">
-                    <div class="categori-item">Pricing</div>
-                    <div class="categori-item">Blog</div>
-                    <div class="categori-item">Support</div>
-                </div>
-                <div class="search">
 
-                </div>
-                <div class="button-signIn">
+    <meta name="author" content="LEE">
+    <meta name="description"
+        content="GitHub is where people build software. More than 31 million people use GitHub to discover, fork, and contribute to over 100 million projects.">
+    <!--viewport: 화면상, 작성한 레이아웃이 나오는 전체 영역 -->
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, uesr-scalable=no, maximum-scale=1, minimum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-                </div>
-                <div class="button-signUp">
+    <!--해당 웹이 외부에 보여지는 정보-->
+    <!-- http://ogp.me/ -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="GitHub">
+    <meta property="og:title" content="Build software better, together">
+    <meta property="og:description"
+        content="GitHub clone coding / GitHub is where people build software. More than 31 million people use GitHub to discover, fork, and contribute to over 100 million projects.">
+     <!--파일 경로 앞에 ./ 가 없다면 상대경로 개념이다.-->
+    <meta property="og:image" content="img/logo__github.png">
+    <meta property="og:url" content="https://github.com">
 
-                </div>
-                
-            </div>
+    <!-- https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html -->
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:site" content="GitHub">
+    <meta property="twitter:title" content="Build software better, together">
+    <meta property="twitter:description"
+        content="GitHub clone coding / GitHub is where people build software. More than 31 million people use GitHub to discover, fork, and contribute to over 100 million projects.">
+    <meta property="twitter:image" content="img/logo__github.png">
+    <meta property="twitter:url" content="https://github.com">
+
+
+    <!--아이콘-->
+    <!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
+    <link rel="icon" href="favicon.png">
+    <!--스마트폰 아이콘-->
+    <link rel="apple-touch-icon" href="favicon.png">
+
+    <!--css 적용-->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    
+    <!--reset.css가 먼저 호출되어야 main.css에서 잘 작동하게 된다. -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+    <!--link rel="stylesheet" href="css/main.css"-->
+    <link rel="stylesheet" href="css/main.css">
+    </head>
+
+    <body>
+        <div class="body__container">
+
+            
+
         </div>
-    </div>
-</body>
+    </body>
 
-</html>
+    </html>
