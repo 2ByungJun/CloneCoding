@@ -19,3 +19,4 @@ ___
 >                              visual(18~24)
 >                              feature(25~31)
 >              -  [2020.05.01] where-is(32~34)
+>                              Pricing Card(35~36)
