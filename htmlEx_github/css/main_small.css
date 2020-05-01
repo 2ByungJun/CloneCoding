@@ -1,0 +1,47 @@
+/* COMMON */
+.summary__title {
+    font-size: 34px !important;
+}
+.summary__desciption {
+    font-size: 22px;
+}
+
+/* FEATURE */
+.section--feature .tiles li {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+/* WHERE IS */
+#map {
+    /* 100%와 auto와는 다른 수치이다. */
+    width: auto;
+    /* .section--where-is .inner 에서 padding 값을 빼줘야한다. */
+    margin: 40px -20px 0 -20px;
+    border-left: none;
+    border-right: none;
+}
+
+/* PRICING */
+.section--pricing .card {
+    display: block;
+}
+.section--pricing .card .cell2 {
+    border-left: none;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* FOOTER */
+footer .site-links {
+    float: none;
+    display: block;
+    text-align: center;
+}
+footer .site-links:first-child{
+    margin-bottom: 20px;
+}
+footer .site-links li {
+    /* 텍스트를 수평 정렬하지만, 텍스트로 이루어진 버튼으로 응용했다. */
+    display: inline;
+}
