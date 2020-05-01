@@ -1,6 +1,6 @@
 ## Front-End Study
 ___
-### update : 2020.04.30
+### update : 2020.05.01
 
 Velog Link : https://velog.io/@ieed0205
 > FastCampus 올인원 패키지 : 프론트엔드(React)
@@ -18,3 +18,4 @@ ___
 >              -  [2020.04.30] header(08~17)
 >                              visual(18~24)
 >                              feature(25~31)
+>              -  [2020.05.01] where-is(32~34)
