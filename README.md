@@ -20,3 +20,4 @@ ___
 >                              feature(25~31)
 >              -  [2020.05.01] where-is(32~34)
 >                              Pricing Card(35~36)
+>                              footer(37~39)
