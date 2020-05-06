@@ -1,6 +1,6 @@
 ## Front-End Study
 ___
-### update : 2020.05.05
+### update : 2020.05.06
 
 Velog Link : https://velog.io/@ieed0205
 > FastCampus 올인원 패키지 : 프론트엔드(React)
