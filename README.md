@@ -1,6 +1,6 @@
 ## Front-End Study
 ___
-### update : 2020.05.06
+### update : 2020.05.15
 
 Velog Link : https://velog.io/@ieed0205
 > FastCampus 올인원 패키지 : 프론트엔드(React)
@@ -29,6 +29,9 @@ ___
 >                              media_1024px,768px(40~51)
 
 
-> ## 2. JS + node.js
+> ## 2. JS 
 >
-> ###  - Day : 2020.05.01 ~
+> ###  - Day : 2020.05.15
+> ###  - URL : https://www.youtube.com/watch?v=f0nBj0YMBUI&list=PL7jH19IHhOLM8YwJMTa3UkXZN-LldYnyK&index=22
+>
+>              -  [2020.05.15] startjs    
