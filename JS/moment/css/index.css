@@ -1,0 +1,35 @@
+html, body {
+    color: #FFF;
+    height: 100%;
+}
+
+body {
+ display: table;
+ margin: 0 auto;
+}
+
+.container{
+    width: auto;
+    height: auto;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing{
+    display: block;
+}
+
+.bgImage{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
